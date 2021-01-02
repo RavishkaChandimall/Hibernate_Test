@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Bootstrapping/01_Bootstrapping.iml" filepath="$PROJECT_DIR$/01_Bootstrapping/01_Bootstrapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Bootstrapping/02_Bootstrapping.iml" filepath="$PROJECT_DIR$/02_Bootstrapping/02_Bootstrapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_CrudOperations/03_CrudOperations.iml" filepath="$PROJECT_DIR$/03_CrudOperations/03_CrudOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Relationships/04_Relationships.iml" filepath="$PROJECT_DIR$/04_Relationships/04_Relationships.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Hibernate_POS/05_Hibernate_POS.iml" filepath="$PROJECT_DIR$/05_Hibernate_POS/05_Hibernate_POS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Query/06_Query.iml" filepath="$PROJECT_DIR$/06_Query/06_Query.iml" />
+    </modules>
+  </component>
+</project>
